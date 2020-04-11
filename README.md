@@ -8,7 +8,7 @@ transfer, put for sale, buy and exchange Stars. The smart contract implements th
 ERC721 token standard, a standard interface for non-fungible tokens, also known as deeds. 
 This contract is uploaded to Rinkeby Ethereum test network.
 
-Contract address: 
+Contract address: 0x051D129B38A2Dd6471894721d2117C59b3bA95b5
 ERC-721 Token Name: Crypto Star Token
 ERC-721 Token Symbol: CST
 
