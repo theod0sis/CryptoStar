@@ -8,9 +8,9 @@ transfer, put for sale, buy and exchange Stars. The smart contract implements th
 ERC721 token standard, a standard interface for non-fungible tokens, also known as deeds. 
 This contract is uploaded to Rinkeby Ethereum test network.
 
-Contract address: 
-ERC-721 Token Name: Crypto Star Token
-ERC-721 Token Symbol: CST
+- Contract address:
+- ERC-721 Token Name: Crypto Star Token
+- ERC-721 Token Symbol: CST
 
 ## Technology used for this project:
     - Solidity version >=0.4.24
@@ -23,9 +23,11 @@ And for testing:
     - Chai
     - Mocha
         
-### Run Crypto Star dapp:
-    npm install
-    truffle compile
-    truffle migrate
-    cd app
-    npm run dev
+### Run Crypto Star dapp local:
+```
+npm install
+truffle compile
+truffle migrate
+cd app
+npm run dev
+```
