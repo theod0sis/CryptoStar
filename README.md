@@ -18,7 +18,8 @@ This contract is uploaded to Rinkeby Ethereum test network.
     - Openzeppelin 2.1.2
     - npm
     - js
-And for testing:
+
+For testing:
 
     - Chai
     - Mocha
